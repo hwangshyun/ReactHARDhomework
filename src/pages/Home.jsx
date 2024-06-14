@@ -17,24 +17,17 @@ export const Section = styled.section`
   background-color: #ffffff;
   border-radius: 16px;
   padding: 20px;
+  margin-top: 20px;
 `;
 
-export default function Home({ expenses, setExpenses }) {
+export default function Home({ user }) {
   const [month, setMonth] = useState(1);
-
-  const filteredExpenses = expenses.filter(
-    (expense) => expense.month === month
-  );
 
   return (
     <Container>
       <MonthNavigation month={month} setMonth={setMonth} />
-      <CreateExpense
-        month={month}
-        expenses={expenses}
-        setExpenses={setExpenses}
-      />
-      <ExpenseList expenses={filteredExpenses} />
+      <CreateExpense user={user} month={month} />
+      <ExpenseList />
     </Container>
   );
 }

@@ -1,0 +1,88 @@
+{
+  "expenses": [
+    {
+      "id": "a5c0d8de-d010-4d07-9934-29765051a7ea",
+      "month": 1,
+      "date": "2024-01-07",
+      "item": "개인사업",
+      "amount": 1000,
+      "description": "X(구 트위터)",
+      "createdBy": "Musk",
+      "userId": "41b13327bc07-5f9c-4650-941f"
+    },
+    {
+      "id": "0d0a966e-5c35-4bf0-aca4-f2b1265a432d",
+      "month": 1,
+      "date": "2024-01-13",
+      "item": "식비",
+      "amount": 2000,
+      "description": "메가커피",
+      "createdBy": "Rosie",
+      "userId": "41bd966c07-5e3c-4130-941f"
+    },
+    {
+      "id": "9aba6d72-5ee7-4f02-a4d4-e8bbff9ded4b",
+      "month": 1,
+      "date": "2024-01-17",
+      "item": "식비",
+      "amount": 21000,
+      "description": "대광참치",
+      "createdBy": "Rosie",
+      "userId": "41efde21c07-5f9c-4650-941f"
+    },
+    {
+      "id": "b82b213e-8164-4c89-94b0-7246cdcfc4f9",
+      "month": 1,
+      "date": "2024-01-21",
+      "item": "식비",
+      "amount": 412000,
+      "description": "BBQ",
+      "createdBy": "Me",
+      "userId": "41abeddwc07-5f9c-4650-941f"
+    },
+    {
+      "id": "d180194f-7c27-428a-8cd9-ad9114e58821",
+      "month": 1,
+      "date": "2024-01-22",
+      "item": "도서",
+      "amount": 23000,
+      "description": "리액트 마스터",
+      "createdBy": "Me",
+      "userId": "41eeqwwc07-5f9c-4650-941f"
+    },
+    {
+      "date": "2024-01-30",
+      "item": "외식",
+      "amount": 100000,
+      "description": "세광양대창창한앞날",
+      "id": "0abf06c3-8f0e-4ea1-9691-7facab0a91cb"
+    },
+    {
+      "id": "87f75319-82c3-461e-b4e0-031c837003dd",
+      "month": 1,
+      "date": "2024-01-01",
+      "item": "123",
+      "amount": 123,
+      "description": "123",
+      "createdBy": "hwang"
+    },
+    {
+      "id": "2cf59944-a0fa-4612-a58a-9b19922e5d2f",
+      "month": 1,
+      "date": "2024-01-01",
+      "item": "123",
+      "amount": 123,
+      "description": "123",
+      "createdBy": "hwang"
+    },
+    {
+      "id": "471432ad-3ab9-40ea-acee-99b0250f3a48",
+      "month": 1,
+      "date": "2024-01-01",
+      "item": "방구",
+      "amount": 20000,
+      "description": "식비",
+      "createdBy": "hwang"
+    }
+  ]
+}
